@@ -1,0 +1,25 @@
+<html>
+    
+        <head>
+                <h1>Basic`s i python</h1>
+                <link rel="stylesheet" href="Cool.css">
+            <div class="YouTube">
+                <video width="1000px" height="450px"
+                controls="controls"/>
+                 
+                <source src="x.mp4"
+                    type="video/mp4">
+               </video>
+            </div>
+        </head>
+         
+            <p>Det første du burde lære deg når du koder er hvordan man får koden til å si en melding. i python bruker man print("tekst")</p>
+            <p>for å lage en variabel i Python kan må du skrive navnet på variabelen, også erlik verdien den skal ha.</p>
+            <p>Du kan bruke dette til og slippe å skrive denne samme verdien mange ganger (hjelper my vist du skal endre verdier ofte). husk det er viktig og ha riktig store og små bokstaver.</p>
+
+    <div class = mids> <iframe src="https://quizlet.com/666078910/flashcards/embed?i=3yaoa4&x=1jj1" height="400" width="50%" style="border:0"></iframe> </div>        
+    <div class="mid">
+        <iframe src="https://trinket.io/embed/python/6ae10967d3" width="80%" height="360" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>           
+     </div> 
+
+</html>
